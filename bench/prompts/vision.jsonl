@@ -1,0 +1,10 @@
+{"id": "v01", "lane": "vision", "image": "v01_red_circle.png", "prompt": "What shape is in this image and what colour is it?", "check": "red.*circle|circle.*red"}
+{"id": "v02", "lane": "vision", "image": "v02_blue_square.png", "prompt": "What shape is in this image and what colour is it?", "check": "blue.*(square|rectangle)|(square|rectangle).*blue"}
+{"id": "v03", "lane": "vision", "image": "v03_green_triangle.png", "prompt": "What shape is in this image and what colour is it?", "check": "green.*triangle|triangle.*green"}
+{"id": "v04", "lane": "vision", "image": "v04_five_dots.png", "prompt": "How many black dots are in this image? Answer with a number.", "check": "\\b5\\b|five"}
+{"id": "v05", "lane": "vision", "image": "v05_text_hello42.png", "prompt": "What text is written in this image?", "check": "hello\\s*42"}
+{"id": "v06", "lane": "vision", "image": "v06_math_7plus5.png", "prompt": "Solve the arithmetic shown in the image. Answer with the number.", "check": "\\b12\\b"}
+{"id": "v07", "lane": "vision", "image": "v07_three_orange_squares.png", "prompt": "How many orange squares are there? Answer with a number.", "check": "\\b3\\b|three"}
+{"id": "v08", "lane": "vision", "image": "v08_left_red_right_blue.png", "prompt": "What colour is the left half of the image, and what colour is the right half?", "check": "red.*blue"}
+{"id": "v09", "lane": "vision", "image": "v09_word_cat.png", "prompt": "What word is written in the image?", "check": "\\bcat\\b"}
+{"id": "v10", "lane": "vision", "image": "v10_bar_chart_B.png", "prompt": "This is a bar chart. Which labelled bar is the tallest? Answer with the letter.", "check": "\\bb\\b"}

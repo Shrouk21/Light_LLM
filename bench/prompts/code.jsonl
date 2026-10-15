@@ -1,0 +1,10 @@
+{"id": "k01", "lane": "code", "prompt": "Write a Python function is_prime(n) that returns True if n is prime. Code only.", "check": "def is_prime"}
+{"id": "k02", "lane": "code", "prompt": "Write a Python function reverse_string(s) that returns s reversed. Code only.", "check": "def reverse_string"}
+{"id": "k03", "lane": "code", "prompt": "Write a SQL query that selects all columns from table users where age > 30.", "check": "select\\s+\\*\\s+from\\s+users\\s+where\\s+age\\s*>\\s*30"}
+{"id": "k04", "lane": "code", "prompt": "Write a Python function fib(n) returning the n-th Fibonacci number, iteratively. Code only.", "check": "def fib"}
+{"id": "k05", "lane": "code", "prompt": "Write a bash one-liner that counts the lines in file.txt.", "check": "wc\\s+-l"}
+{"id": "k06", "lane": "code", "prompt": "Write a JavaScript function add(a, b) that returns a + b. Code only.", "check": "function\\s+add|add\\s*=\\s*\\(?a,\\s*b\\)?\\s*=>"}
+{"id": "k07", "lane": "code", "prompt": "Write a Python list comprehension producing the squares of 0..9.", "check": "for\\s+\\w+\\s+in\\s+range\\(10\\)"}
+{"id": "k08", "lane": "code", "prompt": "Write a Python function that reads a JSON file path and returns the parsed object. Use the json module. Code only.", "check": "json\\.load"}
+{"id": "k09", "lane": "code", "prompt": "Write a regular expression that matches a US ZIP code of exactly 5 digits. Give only the regex.", "check": "\\\\d\\{5\\}|\\[0-9\\]\\{5\\}"}
+{"id": "k10", "lane": "code", "prompt": "Write a Python class Stack with push and pop methods. Code only.", "check": "class\\s+Stack"}

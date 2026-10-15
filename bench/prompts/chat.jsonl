@@ -1,0 +1,10 @@
+{"id": "c01", "lane": "chat", "prompt": "What is the capital of Australia? Answer in one word.", "check": "canberra"}
+{"id": "c02", "lane": "chat", "prompt": "Which planet is known as the Red Planet? One word.", "check": "mars"}
+{"id": "c03", "lane": "chat", "prompt": "Translate 'thank you' into French. Answer with the translation only.", "check": "merci"}
+{"id": "c04", "lane": "chat", "prompt": "What is the chemical symbol for gold?", "check": "\\bau\\b"}
+{"id": "c05", "lane": "chat", "prompt": "Who wrote the play 'Romeo and Juliet'? Give the surname.", "check": "shakespeare"}
+{"id": "c06", "lane": "chat", "prompt": "How many days are in a leap year? Answer with a number.", "check": "\\b366\\b"}
+{"id": "c07", "lane": "chat", "prompt": "What is the largest ocean on Earth? One or two words.", "check": "pacific"}
+{"id": "c08", "lane": "chat", "prompt": "Name the gas that plants absorb from the air for photosynthesis.", "check": "carbon dioxide|co2|co\u2082"}
+{"id": "c09", "lane": "chat", "prompt": "What is the freezing point of water in degrees Celsius? Number only.", "check": "\\b0\\b"}
+{"id": "c10", "lane": "chat", "prompt": "In which continent is Egypt located? One word.", "check": "africa"}

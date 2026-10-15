@@ -1,0 +1,10 @@
+{"id": "r01", "lane": "reasoning", "prompt": "What is 17 * 23? End your answer with the number.", "check": "\\b391\\b"}
+{"id": "r02", "lane": "reasoning", "prompt": "A train travels 60 km/h for 2.5 hours. How many km does it travel? End with the number.", "check": "\\b150\\b"}
+{"id": "r03", "lane": "reasoning", "prompt": "If 3x + 7 = 22, what is x? End with the number.", "check": "\\b5\\b"}
+{"id": "r04", "lane": "reasoning", "prompt": "Tom has 3 times as many apples as Sue. Together they have 24. How many does Tom have? End with the number.", "check": "\\b18\\b"}
+{"id": "r05", "lane": "reasoning", "prompt": "What is the sum of the integers from 1 to 100? End with the number.", "check": "\\b5050\\b"}
+{"id": "r06", "lane": "reasoning", "prompt": "A shirt costs $40 and is discounted 25%. What is the new price in dollars? End with the number.", "check": "\\b30\\b"}
+{"id": "r07", "lane": "reasoning", "prompt": "How many minutes are in 3.5 hours? End with the number.", "check": "\\b210\\b"}
+{"id": "r08", "lane": "reasoning", "prompt": "If today is Monday, what day is it 10 days from now? One word at the end.", "check": "thursday"}
+{"id": "r09", "lane": "reasoning", "prompt": "What is 2 to the power of 10? End with the number.", "check": "\\b1024\\b"}
+{"id": "r10", "lane": "reasoning", "prompt": "A rectangle is 8 by 5. What is its perimeter? End with the number.", "check": "\\b26\\b"}
